@@ -1,0 +1,12 @@
+{
+  "name": "vue2-browser-location-distance",
+  "version": "1.0.0",
+  "description": "Vue.js component for browser location distance calculation.",
+  "main": "BrowserLocationDistance.vue",
+  "license": "UNLICENSED",
+  "author": "petar.gnjidic",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgnjidic/vue2-browser-location-distance.git"
+  }
+}
